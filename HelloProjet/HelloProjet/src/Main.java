@@ -8,4 +8,8 @@ public class Main {
     }
 }
 //增加dev分支
+<<<<<<< HEAD
 增加冲突
+=======
+切换到dev分支冲突
+>>>>>>> dev
